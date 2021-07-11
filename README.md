@@ -1,2 +1,2 @@
 # knapsack-problem
-C++ code
+the C++ code of knapsack problem
